@@ -1,6 +1,7 @@
 # HandyPad
 
 A clean, minimal, handy macropad for times when 104 keys aren't enough 
+
 *(or just an easier way to copy and paste)* 
 
 
