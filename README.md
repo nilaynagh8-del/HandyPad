@@ -1,6 +1,7 @@
 # HandyPad
 
-A clean, minimal, handy macropad for times when 104 keys aren't enough *(or just an easier way to copy and paste)* 
+A clean, minimal, handy macropad for times when 104 keys aren't enough 
+*(or just an easier way to copy and paste)* 
 
 
 <img width="802" height="460" alt="image" src="https://github.com/user-attachments/assets/417881f1-8a16-427b-800c-dba7bb696b5f" />
