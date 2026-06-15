@@ -1,6 +1,6 @@
 # HandyPad
 
-A clean, minimal, handy macropad for times when 104 keys aren't enough 
+A clean, minimal, handy macropad for times when a 104 keys aren't enough 
 
 *(or just an easier way to copy and paste)* 
 
@@ -34,7 +34,7 @@ A clean, minimal, handy macropad for times when 104 keys aren't enough
 
 | Row        | Key 1           | Key 2           | Key 3         | Key 4        |
 |------------|-----------------|-----------------|---------------|--------------|
-| **Top**    | Play/Pause      | Previous Track  | Next Track    | —            |
+| **Top**    | Play/Pause      | Previous Track  | Next Track    | Rotary Encoder In This Spot|
 | **Bottom** | Copy (Ctrl+C)   | Paste (Ctrl+V)  | Undo (Ctrl+Z) | Print Screen |
 
 ### Encoder:
@@ -47,11 +47,13 @@ A clean, minimal, handy macropad for times when 104 keys aren't enough
 
 ## What is this?
 
-This is a macropad I built to assist me at my desk. This device can come in handy whether you're designing something in CAD, working on a PCB, gaming, and more.
+This is a macropad I built to assist me at my desk. This device can come in handy whether you're designing something in CAD, working on a PCB, gaming, or really anything you would like to use it for.
 
-## How it works
+## How it works and Issues I Faced
 
-The macropad is running **QMK** for the keymaps, screen, and knob. Pretty obvious, but it uses a matrix layout for the switches.
+The Xiao rp2040 is mounted on the bottom of the PCB along with the diodes. The rest of the components are on the top. The macropad is running **QMK** for the keymaps, screen, and knob. Pretty obvious, but it uses a matrix layout for the switches. 
+
+When I was designing the PCB I wanted to make this macropad as compact as possible with its current hardware which was challenging. I had to reposition the components several times before I was satisfied. I also spent quite some time in CAD designing this case as I wanted to make it as clean as possible. It took me quite some while to find the right shape and and size without making it look awkward.
 
 ---
 
