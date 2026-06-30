@@ -73,7 +73,7 @@ When I was designing the PCB I wanted to make this macropad as compact as possib
 
 <img width="929" height="648" alt="Screenshot 2026-06-10 213152" src="https://github.com/user-attachments/assets/f5808cac-8802-414a-8558-305516b8b752" />
 <img width="585" height="562" alt="Screenshot 2026-06-06 142748" src="https://github.com/user-attachments/assets/f998e8e6-ef55-478a-8692-23534d02d841" />
-<img width="644" height="846" alt="Screenshot 2026-06-12 145833" src="https://github.com/user-attachments/assets/bfe1cebf-cddd-4c38-b9b5-a7d9ecaebed5" />
+<img width="427" height="596" alt="Screenshot 2026-06-30 115217" src="https://github.com/user-attachments/assets/94caf92b-771c-4275-b181-fab46d716bd0" />
 <img width="829" height="654" alt="Screenshot 2026-06-11 084459" src="https://github.com/user-attachments/assets/3e8333df-a878-4278-a8e8-20f8c56589e8" />
 
 ---
